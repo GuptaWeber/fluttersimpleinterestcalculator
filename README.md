@@ -1,10 +1,11 @@
-# drugtive
+# SIMPLE INTEREST CALCULATOR
 
-A new Flutter project.
+An Application, Simple Interest Calculator built with Flutter .
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is buit by using Flutter Dart programming language, used to calculate simple interest user has to enter the principal amount, rate of interest and term and the currency he wanted to and if he click on calculate this app calculates the interest and show the result.
+
 
 A few resources to get you started if this is your first Flutter project:
 
