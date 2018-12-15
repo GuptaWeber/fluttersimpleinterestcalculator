@@ -1,0 +1,4 @@
+#Fri Dec 14 19:43:17 ALMT 2018
+base.0=D\:\\Development\\Projects\\Flutter\\Barcode\\drugtive\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
